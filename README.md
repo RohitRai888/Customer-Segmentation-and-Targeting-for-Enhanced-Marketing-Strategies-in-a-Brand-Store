@@ -1,1 +1,3 @@
 # Target Customer Class for Brand Store Marketing
+<br>
+This project aims to enhance the marketing strategies of a brand store located in a shopping mall by identifying and targeting an older customer group more likely to purchase products. Using the provided dataset, which includes customer demographics and socio-economic status, we will perform exploratory data analysis (EDA) to understand customer characteristics and cluster analysis to segment the customer base. The objective is to uncover actionable insights and identify target customer segments to inform the store's marketing efforts and boost customer attraction and retention.
